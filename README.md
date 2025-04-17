@@ -31,12 +31,13 @@ After running the script, it generates:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/hackerone-domain-fetcher.git cd hackerone-domain-fetcher
+git clone [https://github.com/yourusername/hackerone-domain-fetcher.git](https://github.com/bhaveshraj336/H1ScopeHarvester.git) 
+cd hackerone-domain-fetcher
 
 
 ### 2. Install Requirements
 
-pip3 install -r requirements.txt
+pip3 install requests
 
 ### 3. Configure Authentication
 
